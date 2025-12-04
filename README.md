@@ -79,9 +79,10 @@ Score: 73%
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/your-username  
-- Email: your-email@example.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- **GitHub:** [https://github.com/your-username](https://github.com/RajeshwariRathore-454 )  
+- **Email:** [your-email@example.com](mailto:your-email@example.com)  
+- **LinkedIn:** [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
 
 ---
 

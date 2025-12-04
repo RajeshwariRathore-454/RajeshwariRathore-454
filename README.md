@@ -81,10 +81,7 @@ Score: 73%
 
 - **GitHub:** [https://github.com/RajeshwariRathore-454](https://github.com/RajeshwariRathore-454 )  
 - **Email:** [rajeshwarisingh654@gmail.com](mailto:rajeshwarisingh654@gmail.com)  
-- **LinkedIn:** [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
-
----
+- **LinkedIn:** [https://linkedin.com/in/rajeshwari-rathore](https://linkedin.com/in/rajeshwari-rathore)
 
 ## ⭐ Support
 

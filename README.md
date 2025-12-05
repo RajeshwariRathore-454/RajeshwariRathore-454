@@ -92,9 +92,4 @@ I enjoy building clean, maintainable, and high-performance applications while co
 
 ---
 
-## ⭐ Support  
-If you find my work helpful, consider giving a **star ⭐** — it motivates me to keep building and learning!
-
----
-
-<p align="center"><b>“Always learning. Always building. Always improving.”</b></p>
+![Profile Views](https://komarev.com/ghpvc/?username=RajeshwariRathore-454&color=blue)

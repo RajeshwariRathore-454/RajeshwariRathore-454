@@ -59,7 +59,7 @@ I believe in **writing clean code**, continuous learning, and contributing to me
 ## 📬 Connect With Me
 <p align="left">
   <a href="https://github.com/RajeshwariRathore-454"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-  <a href="https://linkedin.com/in/rajeshwari-rathore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://linkedin.com/in/rajeshwari-rathore-4107432ab/><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:rajeshwarisingh654@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
